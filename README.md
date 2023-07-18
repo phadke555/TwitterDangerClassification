@@ -10,4 +10,4 @@ In this project, we utilized the Microsoft DeBERTa model, a powerful transformer
 To implement the model and perform the classification task, we employed the Transformers and PyTorch libraries in Python. Transformers is a state-of-the-art library for NLP developed by Hugging Face, which provides an easy-to-use interface for implementing transformer models. PyTorch, a popular deep learning framework, was used as the backend for training and deploying the model.
 
 ### Results
-We participated in a Kaggle Competition using our approach and achieved excellent results. Our solution ranked in the top 25% of submissions, demonstrating the effectiveness of the implemented model and methodology.
+I participated in a Kaggle Competition using our approach and achieved excellent results. My solution ranked in the top 25% of submissions, demonstrating the effectiveness of the implemented model and methodology.
